@@ -56,3 +56,40 @@ Worksheet 2: Sample size for disease detection
 3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is
 
     \<1%
+
+------------------------------------------------------------------------
+
+# **10/3/2025**
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
+data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
+meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:\
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+![](images/clipboard-3296816889.png)
+
+1.  Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+
+    1.  06/12: 5 new / 51 susceptible = 9.8% per day
+
+    2.  06/14: 2 new / 44 susceptible = 4.6% per day
+
+    3.  06/15: 0 new / 42 susceptible = 0% per day
+
+    4.  *Unit:* proportion per day (new cases per susceptible elk per day, \# infected/ \# at risk)
+
+2.  What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence?
+
+    1.  06/13: 12 infected / 56 = 21.4%
+
+    2.  06/16: 5 infected / 56 = 8.9%
+
+    3.  Proportion of the population infected at a point in time (# infected/total #)
+
+3.  On which day is the prevalence the same as the incidence (except for the units)?
+
+    1.  06/10/25 → Both had a count of 1 case.
+
+4.  On which day is the incidence lowest?
+
+    1.  06/15/25 and 06/16/25 → 0 new cases.
