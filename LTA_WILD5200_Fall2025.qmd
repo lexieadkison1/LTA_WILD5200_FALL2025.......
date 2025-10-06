@@ -93,3 +93,9 @@ RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 4.  On which day is the incidence lowest?
 
     1.  06/15/25 and 06/16/25 → 0 new cases.
+
+------------------------------------------------------------------------
+
+# Tick Identification Write Up - 10/6/25
+
+Tick identification relies on observing key morphological features through a structured approach. The process typically follows the sequence of determining life stage, sex, genus, and species. First, the life stage is identified by checking for a genital pore and counting legs, with six in larvae and eight in nymphs and adults. Next, sex is determined by examining the scutum; males have a full scutum called a conscutum, while females have a smaller one called an alloscutum. Genus identification depends on the position of the anal groove, which may be anterior or posterior to the anus. Species-level identification is achieved using a dichotomous key. The SAM method, which stands for scutum, anal groove, and mouth parts, helps distinguish tick types by observing scutum patterns, anal groove location, and the length of mouth parts. Accurate tick identification is vital in public health because different species transmit specific pathogens such as Lyme disease, Ehrlichiosis, and Rocky Mountain spotted fever. Understanding these features supports effective disease surveillance and prevention strategies.
