@@ -109,3 +109,26 @@ Tick identification relies on observing key morphological features through a str
 8.  Yes, I agree with Aldo Leopold’s perspective that wildlife disease is largely an ecological issue influenced by human actions. Human-driven habitat changes, climate shifts, and artificial animal concentrations often create conditions that favor disease outbreaks. For example, Chronic Wasting Disease (CWD) in deer has spread more rapidly because of captive deer farming and the transport of animals across states—human activities that disrupt natural population structures. Similarly, the spread of chytridiomycosis in amphibians has been linked to the global pet trade and movement of infected species, such as the African clawed frog, which introduced the fungus to new ecosystems. These examples show that many wildlife diseases emerge or intensify when human behavior alters ecological balance, supporting Leopold’s view that managing disease requires understanding and addressing our own environmental impacts.
 
     ------------------------------------------------------------------------
+
+# Worksheet 4 - 10/17/25
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](images/clipboard-3333916480.png)
+
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations.
+    1.  Incorrect. MERS-CoV is not primarily maintained in humans; it is maintained in dromedary camels, which are the main reservoir. Human infections typically occur through spillover from camels to humans, with limited human-to-human transmission.
+2.  Camels serve as the main animal reservoir for MERS-CoV.
+    1.  Correct
+3.  Humans are dead-end hosts for MERS-CoV.
+    1.  Correct
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
+    1.  Incorrect. The actual estimated case fatality rate (CFR) is about 35%, not 65%. This estimate is based on reported confirmed cases and deaths since the virus was first identified in 2012.
+5.  The epidemic curve indicates this is a point source outbreak.
+    1.  Incorrect. The epidemic curve for MERS-CoV does not show a point source outbreak. Instead, it reflects sporadic zoonotic spillover events and limited human-to-human transmission, often associated with healthcare settings and multiple peaks over time.
