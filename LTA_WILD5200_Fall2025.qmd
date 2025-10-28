@@ -132,3 +132,17 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
     1.  Incorrect. The actual estimated case fatality rate (CFR) is about 35%, not 65%. This estimate is based on reported confirmed cases and deaths since the virus was first identified in 2012.
 5.  The epidemic curve indicates this is a point source outbreak.
     1.  Incorrect. The epidemic curve for MERS-CoV does not show a point source outbreak. Instead, it reflects sporadic zoonotic spillover events and limited human-to-human transmission, often associated with healthcare settings and multiple peaks over time.
+
+------------------------------------------------------------------------
+
+# Worksheet 5 - 10/28/2025
+
+Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+    -   The 2024 Marburg virus outbreak in Rwanda was a spillover event, not an emerging infectious disease. Genomic analysis showed it began with a single transmission from Egyptian rousette bats to humans, followed by limited spread among healthcare workers. Since the Marburg virus is already known, this outbreak reflected zoonotic spillover and nosocomial amplification rather than the emergence of a new pathogen. Most infections occurred in hospitals through exposure to blood and body fluids, making it a controlled, localized event rather than a novel epidemic.
+
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+    -   To reduce transmission, Rwanda used rapid detection, community education, and strict infection control. People were advised to avoid bat caves and practice safe caregiving and burial methods. Contact tracing and 21-day monitoring helped contain community spread. In hospitals, workers used PPE, isolation wards, triage systems, and buddy checks for donning and doffing equipment. Improved ventilation, exposure tracking, and daily symptom checks further protected staff. Strong supportive care, including Africa’s first use of mechanical ventilation for Marburg patients, raised survival to 77%, proving that early treatment and equitable care can effectively stop transmission.
