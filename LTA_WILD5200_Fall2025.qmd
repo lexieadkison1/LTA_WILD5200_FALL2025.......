@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## 8/25/2025
+## Worksheet 1 - 8/25/2025
 
 ```{r}
 #| echo: false
@@ -35,7 +35,7 @@ The epidemiological triad is a model used to explain how diseases occur and spre
 
 ------------------------------------------------------------------------
 
-# **9/15/25**
+# **Worksheet 2 - 9/15/25**
 
 Worksheet 2: Sample size for disease detection
 
@@ -59,7 +59,7 @@ Worksheet 2: Sample size for disease detection
 
 ------------------------------------------------------------------------
 
-# **10/3/2025**
+# **Worksheet 3 - 10/3/2025**
 
 Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her\
 data shows that an outbreak of conjunctivitis started on 10th June 2025. She\
@@ -146,3 +146,57 @@ Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the c
 2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
     -   To reduce transmission, Rwanda used rapid detection, community education, and strict infection control. People were advised to avoid bat caves and practice safe caregiving and burial methods. Contact tracing and 21-day monitoring helped contain community spread. In hospitals, workers used PPE, isolation wards, triage systems, and buddy checks for donning and doffing equipment. Improved ventilation, exposure tracking, and daily symptom checks further protected staff. Strong supportive care, including Africa’s first use of mechanical ventilation for Marburg patients, raised survival to 77%, proving that early treatment and equitable care can effectively stop transmission.
+
+------------------------------------------------------------------------
+
+# Worksheet 6 - 11/6/25
+
+A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.\
+\
+1. Determine Prevalence
+
+a\. Use the online tool QPweb to calculate the prevalence of Vertico in each pond.
+
+Pond 1 = 0.300
+
+Pond 2 = 0.067
+
+\
+b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+
+Pond 1 = 30%
+
+Pond 2 = 6.7%
+
+\
+2. Calculate the 95% Confidence Interval (CI)\
+a. Use QPweb to calculate the 95% CI for each prevalence estimate.
+
+Pond 1 LCI = 0.140, UCl = 0.525
+
+Pond 2 LCI = 0.003, UCl = 0.302
+
+\
+b. Report the CI values as percentages, rounded meaningfully
+
+Pond 1 LCI = 14%, UCI = 52.5%
+
+Pond 2 LCI= 0.3%, UCI = 30.2%
+
+\
+3. Compare Prevalence Between the Two Ponds\
+a. Perform a Fisher’s exact test to compare the two prevalence values.
+
+Pond 1 prevalence = 30.0
+
+Pond 2 prevalence = 6.7
+
+\
+b. Report the p-value.
+
+0.1987
+
+\
+c. State whether the difference is statistically significant.
+
+p = 0.1987 \> 0.05. Not statistically significant. There is no evidence that the prevalence of Vertico differs significantly between Pond 1 and Pond 2.
