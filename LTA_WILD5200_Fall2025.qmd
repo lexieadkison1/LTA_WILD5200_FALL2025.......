@@ -41,21 +41,20 @@ Worksheet 2: Sample size for disease detection
 
 ![](images/clipboard-1408093617.png)
 
-1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a\
-    herd of 5000 deer. The desired level of confidence is 95%.
+1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
 
-    The necessary sample size is 59
+    -   The necessary sample size is 59
 
-2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:\
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
 
-    a)  95% confidence in detecting a disease at 1% prevalence in a large population. 299\
-    b)  99% confidence in detecting a disease at 2% prevalence in a large population. 229
+    -   95% confidence in detecting a disease at 1% prevalence in a large population. 299\
+    -   99% confidence in detecting a disease at 2% prevalence in a large population. 229
 
     The sample size required for scenario A is larger
 
 3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is
 
-    \<1%
+    -   \<1%
 
 ------------------------------------------------------------------------
 
@@ -70,29 +69,29 @@ RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
 
 1.  Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
 
-    1.  06/12: 5 new / 51 susceptible = 9.8% per day
+    -   06/12: 5 new / 51 susceptible = 9.8% per day
 
-    2.  06/14: 2 new / 44 susceptible = 4.6% per day
+    -   06/14: 2 new / 44 susceptible = 4.6% per day
 
-    3.  06/15: 0 new / 42 susceptible = 0% per day
+    -   06/15: 0 new / 42 susceptible = 0% per day
 
-    4.  *Unit:* proportion per day (new cases per susceptible elk per day, \# infected/ \# at risk)
+    -   *Unit:* proportion per day (new cases per susceptible elk per day, \# infected/ \# at risk)
 
 2.  What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence?
 
-    1.  06/13: 12 infected / 56 = 21.4%
+    -   06/13: 12 infected / 56 = 21.4%
 
-    2.  06/16: 5 infected / 56 = 8.9%
+    -   06/16: 5 infected / 56 = 8.9%
 
-    3.  Proportion of the population infected at a point in time (# infected/total #)
+    -   Proportion of the population infected at a point in time (# infected/total #)
 
 3.  On which day is the prevalence the same as the incidence (except for the units)?
 
-    1.  06/10/25 → Both had a count of 1 case.
+    -   06/10/25 → Both had a count of 1 case.
 
 4.  On which day is the incidence lowest?
 
-    1.  06/15/25 and 06/16/25 → 0 new cases.
+    -   06/15/25 and 06/16/25 → 0 new cases.
 
 ------------------------------------------------------------------------
 
@@ -123,15 +122,15 @@ Distribution of confirmed cases of MERS by place of infection and month of onset
 Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
 
 1.  MERS-CoV is primarily maintained in human populations.
-    1.  Incorrect. MERS-CoV is not primarily maintained in humans; it is maintained in dromedary camels, which are the main reservoir. Human infections typically occur through spillover from camels to humans, with limited human-to-human transmission.
+    -   Incorrect. MERS-CoV is not primarily maintained in humans; it is maintained in dromedary camels, which are the main reservoir. Human infections typically occur through spillover from camels to humans, with limited human-to-human transmission.
 2.  Camels serve as the main animal reservoir for MERS-CoV.
-    1.  Correct
+    -   Correct
 3.  Humans are dead-end hosts for MERS-CoV.
-    1.  Correct
+    -   Correct
 4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
-    1.  Incorrect. The actual estimated case fatality rate (CFR) is about 35%, not 65%. This estimate is based on reported confirmed cases and deaths since the virus was first identified in 2012.
+    -   Incorrect. The actual estimated case fatality rate (CFR) is about 35%, not 65%. This estimate is based on reported confirmed cases and deaths since the virus was first identified in 2012.
 5.  The epidemic curve indicates this is a point source outbreak.
-    1.  Incorrect. The epidemic curve for MERS-CoV does not show a point source outbreak. Instead, it reflects sporadic zoonotic spillover events and limited human-to-human transmission, often associated with healthcare settings and multiple peaks over time.
+    -   Incorrect. The epidemic curve for MERS-CoV does not show a point source outbreak. Instead, it reflects sporadic zoonotic spillover events and limited human-to-human transmission, often associated with healthcare settings and multiple peaks over time.
 
 ------------------------------------------------------------------------
 
@@ -151,55 +150,45 @@ Marburg Virus Outbreak, Rwanda 2024 The first person to become infected in the c
 
 # Worksheet 6 - 11/6/25
 
-A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.\
-\
-1. Determine Prevalence
+1.  A new disease, Vertico, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds. Determine Prevalence. Use the online tool QPweb to calculate the prevalence of Vertico in each pond.
 
-a\. Use the online tool QPweb to calculate the prevalence of Vertico in each pond.
+    -   Pond 1 = 0.300
 
-Pond 1 = 0.300
+    -    Pond 2 = 0.06
 
-Pond 2 = 0.067
+    Report the prevalence as a percentage (e.g., 0.35 → 35%).
 
-\
-b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+    -   Pond 1 = 30%
 
-Pond 1 = 30%
+    -   Pond 2 = 6.7%
 
-Pond 2 = 6.7%
+2.  Calculate the 95% Confidence Interval (CI). Use QPweb to calculate the 95% CI for each prevalence estimate.
 
-\
-2. Calculate the 95% Confidence Interval (CI)\
-a. Use QPweb to calculate the 95% CI for each prevalence estimate.
+    -   Pond 1 LCI = 0.140, UCl = 0.525
 
-Pond 1 LCI = 0.140, UCl = 0.525
+    -   Pond 2 LCI = 0.003, UCl = 0.302
 
-Pond 2 LCI = 0.003, UCl = 0.302
+    Report the CI values as percentages, rounded meaningfully
 
-\
-b. Report the CI values as percentages, rounded meaningfully
+    -   Pond 1 LCI = 14%, UCI = 52.5%
 
-Pond 1 LCI = 14%, UCI = 52.5%
+    -   Pond 2 LCI= 0.3%, UCI = 30.2%
 
-Pond 2 LCI= 0.3%, UCI = 30.2%
+3.  Compare Prevalence Between the Two Ponds\
+    a. Perform a Fisher’s exact test to compare the two prevalence values.
 
-\
-3. Compare Prevalence Between the Two Ponds\
-a. Perform a Fisher’s exact test to compare the two prevalence values.
+    -   Pond 1 prevalence = 30.0
 
-Pond 1 prevalence = 30.0
+    -   Pond 2 prevalence = 6.7
 
-Pond 2 prevalence = 6.7
+        \
+        b. Report the p-value.
 
-\
-b. Report the p-value.
+    -   0.1987
 
-0.1987
+    c\. State whether the difference is statistically significant.
 
-\
-c. State whether the difference is statistically significant.
-
-p = 0.1987 \> 0.05. Not statistically significant. There is no evidence that the prevalence of Vertico differs significantly between Pond 1 and Pond 2.
+    -   p = 0.1987 \> 0.05. Not statistically significant. There is no evidence that the prevalence of Vertico differs significantly between Pond 1 and Pond 2.
 
 ------------------------------------------------------------------------
 
